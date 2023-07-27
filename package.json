@@ -1,0 +1,15 @@
+{
+  "name": "full-stack-activity",
+  "version": "1.0.0",
+  "description": "MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "author": "Nelem Genevieve",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
